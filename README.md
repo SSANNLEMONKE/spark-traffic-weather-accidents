@@ -23,6 +23,4 @@ In dit project onderzoek ik hoe verkeersintensiteit en weercondities samenhangen
 - `notebooks/analysis.ipynb` – hoofdnotebook met alle Spark-analyse en visualisaties  
 - `data/` – lokale map (niet gecommit) waar de gedownloade datasets worden opgeslagen  
 
-## Hoe draaien (Docker + Spark)
 
-Binnenkort aangevuld met concrete Docker instructies.
